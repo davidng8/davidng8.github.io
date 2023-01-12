@@ -12,10 +12,12 @@ I am currently learning skills in GIS and Data Science at the University of Wash
 # Work Experience (only last 10 years)
 
 Starbucks Barista (2018-Present)
-[Website] : http://starbucks.com
+* [Website] : http://starbucks.com
 
-## University of Washington (Seattle, Washington)
+## Education (Seattle, Washington)
 
 * [UW Seattle] Geography Data Science
+* [Seattle Central College] Running Start Program (2018-2020)
 
-[University 1]: http://www.uw.edu
+* [University 1]: http://www.uw.edu
+* [University 2]: http://seattlecentral.edu
