@@ -13,7 +13,6 @@ I am currently learning skills in GIS and Data Science at the University of Wash
 
 Starbucks Barista (2018-Present)
 * [Website] : http://starbucks.com
- ![Starbucks Logo](https://i.imgur.com/cwoE9D7.jpg)
  <img src="https://i.imgur.com/cwoE9D7.jpg" alt="SB Logo" width="200"/>
 
 ## Education (Seattle, Washington)
