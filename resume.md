@@ -31,10 +31,10 @@ Job Responsbilities:
 * Seattle Central College Running Start Program (2018-2020) (http://seattlecentral.edu)
 <img src="https://crown.edu.mm/wp-content/uploads/2021/08/SeattleCentral.png.png" alt="Seattle Central Logo" width = "200">
 
-Education Background:
-> Cleveland STEM High School (2016 - 2020)
-> Seattle Central College (2018 - 2020)
-> University of Washington Seattle (2020 - 2024)
+## All Education Background:
+1. Cleveland STEM High School (2016 - 2020)
+2. Seattle Central College (2018 - 2020)
+3. University of Washington Seattle (2020 - 2024)
 
 
 
