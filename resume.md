@@ -11,7 +11,8 @@ I am currently learning skills in GIS and Data Science at the University of Wash
 
 # Work Experience (only last 10 years)
 
-Starbucks Barista (2018-Present)
+#### Starbucks Barista (2018-Present)
+
 * Website : (http://starbucks.com)
  <img src="https://i.imgur.com/cwoE9D7.jpg" alt="SB Logo" width="200"/>
 
@@ -22,7 +23,7 @@ Job Responsbilities:
 >Maintaning a good environment
 >>Making sure customer request are fufilled and positive experience
 
-ULI's Famous Sausage
+#### ULI's Famous Sausage
 
 <img src="https://ulisfamoussausage.com/wp-content/themes/Ulis-Famous-Wordpress-Theme/assets/UFSLogo.png" alt="Uli's" width ="200">
 
