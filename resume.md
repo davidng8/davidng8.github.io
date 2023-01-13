@@ -13,10 +13,10 @@ I am currently learning skills in GIS and Data Science at the University of Wash
 
 Starbucks Barista (2018-Present)
 * [Website] : http://starbucks.com
+ ![Starbucks Logo](https://i.imgur.com/cwoE9D7.jpg)
 
 ## Education (Seattle, Washington)
 
 * [UW Seattle] Geography Data Science (http://www.uw.edu)
-![Starbucks Logo](http://logos-download.com/wp-content/uploads/2016/03/Starbucks_Logo_2011.jpg)
 * [Seattle Central College] Running Start Program (2018-2020) (http://seattlecentral.edu)
 
