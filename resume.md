@@ -1,13 +1,13 @@
 # David Ng
 
-davidng8@uw.edu
+School Email: davidng8@uw.edu
 
-davidngg8@gmail.com
+Personal Email: davidngg8@gmail.com
 
 
 # Summary
 
-I am currently learning skills in GIS and Data Science at the University of Washington.
+I am currently learning skills in GIS and Data Science at the University of Washington. 
 
 # Work Experience (only last 10 years)
 
