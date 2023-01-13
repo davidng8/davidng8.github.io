@@ -34,6 +34,7 @@ Job Responsbilities:
 ## All Education Background:
 1. Cleveland STEM High School (2016 - 2020)
 <img src="https://clevelandhs.seattleschools.org/wp-content/uploads/sites/20/2021/07/2017_ClevelandSeal_small.jpg" alt="CHS Logo" width = "200">
+
 2. Seattle Central College (2018 - 2020)
 3. University of Washington Seattle (2020 - 2024)
 
