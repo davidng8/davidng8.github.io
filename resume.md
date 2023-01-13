@@ -18,7 +18,8 @@ Starbucks Barista (2018-Present)
 Job Responsbilities:
 > Customer Service
 >>Handling customer request professionally
->Mainting a good environment
+
+>Maintaning a good environment
 >>Making sure customer request are fufilled and positive experience
 
 
