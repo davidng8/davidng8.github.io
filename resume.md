@@ -23,6 +23,7 @@ Job Responsbilities:
 >>Making sure customer request are fufilled and positive experience
 
 ULI's Famous Sausage
+
 <img src="https://ulisfamoussausage.com/wp-content/themes/Ulis-Famous-Wordpress-Theme/assets/UFSLogo.png" alt="Uli's" width ="200">
 
 * Job Responsibilities:
