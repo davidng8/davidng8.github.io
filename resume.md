@@ -18,5 +18,6 @@ Starbucks Barista (2018-Present)
 ## Education (Seattle, Washington)
 
 * [UW Seattle] Geography Data Science (http://www.uw.edu)
+<img src="https://xpresso.gs.washington.edu/images/uw.png" alt="UW Logo" width= "200">
 * [Seattle Central College] Running Start Program (2018-2020) (http://seattlecentral.edu)
 
